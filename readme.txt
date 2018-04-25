@@ -1,5 +1,8 @@
 Welcome to my First Repo
 Welcome to My git repo through command line
 added new line with diff branch
-welcome huz
+<<<<<<< HEAD
 
+=======
+hello punjani
+>>>>>>> update-readme
